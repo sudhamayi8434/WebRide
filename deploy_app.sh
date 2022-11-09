@@ -3,10 +3,10 @@
 # usage: ./deployme.sh staging sddffafaafaf
 # license: public domain
 
-application_name="WebRide"
-environment_name="Webride-env"
+application_name="WebRide1"
+environment_name="Webride1-env"
 
-EB_BUCKET=webride-bucketapp
+EB_BUCKET=webride-bucket1
 
 VERSION="v11"
 ZIP="code.$VERSION.zip"
