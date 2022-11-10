@@ -6,7 +6,7 @@
 application_name="WebRide1"
 environment_name="Webride1-env"
 
-EB_BUCKET=webride-bucket1app
+EB_BUCKET=webride-bucket1
 
 VERSION="v11"
 ZIP="code.$VERSION.zip"
